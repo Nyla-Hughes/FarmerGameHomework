@@ -14,3 +14,4 @@ Then go to thi website in a browser http://localhost:8000/index.html
 
 ## Credit
 Pumpkin drawing inspired by [Kevin Workman’s p5.js sketch](https://editor.p5js.org/KevinWorkman/sketches/Rhpew5JsV)
+I did use some AI to help with basic issues (like why the game screen was not showing up and why drawing were not popping up)
